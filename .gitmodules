@@ -13,3 +13,4 @@
 [submodule "blockchain-watchman-uprtcl"]
 	path = blockchain-watchman-uprtcl
 	url = git@github.com:sotous/blockchain-watchman-uprtcl.git
+	branch = develop

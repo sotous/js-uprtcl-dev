@@ -2,11 +2,15 @@
   "name": "root",
   "private": true,
   "scripts": {
+    "bootstrap": "lerna bootstrap",
     "dev": "lerna run dev --parallel",
     "update-uprtcl": "lerna run update-uprtcl --parallel"
   },
   "devDependencies": {
     "lerna": "^3.22.1",
     "npm-check-updates": "^10.2.1"
+  },
+  "engines": {
+    "node": ">=12 <13"
   }
 }
