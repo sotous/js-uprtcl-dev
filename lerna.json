@@ -11,6 +11,7 @@
     "js-uprtcl/remotes/http-ui",
     "js-uprtcl/remotes/ethereum",
     "js-uprtcl/remotes/blockchain",
+    "js-uprtcl/remotes/blockchain-ui",
     "blockchain-watchman-uprtcl",
     "linked-thoughts",
     "js-uprtcl-server"
