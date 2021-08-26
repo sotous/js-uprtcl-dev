@@ -78,3 +78,7 @@ npm run dev
 ```
 
 Now open `localhost:8002` on your browser and you should see the application. Use Metamask to login as Auth0 access is limited to an oklist.
+
+
+> ### [Quick Start](https://github.com/sotous/js-uprtcl-dev/edit/eth-refactor/README.md#alternative-solution)
+> If you already have Dgraph, IPFS and the ETH test network running somewhere, you could just run `npm run dev` after clonning and installing.
