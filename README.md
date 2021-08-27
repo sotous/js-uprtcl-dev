@@ -24,7 +24,7 @@ cd ..
 
 
 > ### [Quick Start](https://github.com/sotous/js-uprtcl-dev/edit/eth-refactor/README.md#alternative-solution)
-> If you already have Dgraph, IPFS and the ETH test network running somewhere, you could just run `npm run dev` after clonning and installing.
+> If you already have Dgraph, IPFS and the ETH test network running somewhere, besides, all environment variables correctly set in each service, you could just run `npm run dev` after clonning and installing.
 
 Now you should run the [Web Server](https://github.com/uprtcl/js-uprtcl-server/tree/develop) (Check it's README file, but you need to create an `.env` file and run dgraph with docker);
 
