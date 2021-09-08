@@ -9,7 +9,7 @@
     "modules": "cd js-uprtcl && npm run dev",
     "linked-thoughts": "cd linked-thoughts && npm run dev",
     "server": "cd js-uprtcl-server && npm run dev",
-    "watchman": "cd blockchain-watchman-uprtcl && ( sleep 5 && npm run dev )",
+    "watchman": "cd blockchain-watchman-uprtcl && ( sleep 10 && npm run dev )",
     "delayed-watchman": "cd blockchain-watchman-uprtcl && ( sleep 5 && npm run dev )",
     "dev": "run-p modules linked-thoughts server delayed-watchman"
   },
